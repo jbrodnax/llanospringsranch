@@ -1,2 +1,2 @@
 # llanospringsranch
-Ranch website
+Repo for recovery and management of ranch website.
