@@ -6,6 +6,6 @@ Repo for recovery and management of ranch website.
 - [x] index.html
 - [x] exotic-hunts.html
 - [x] trophy-hunts.html
-- [ ] doe--spike-hunts.html
+- [x] doe--spike-hunts.html
 - [x] recreation--accommodations.html
 - [x] classic-8-hunts.html
