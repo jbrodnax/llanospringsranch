@@ -1,7 +1,11 @@
 # llanospringsranch
 Repo for recovery and management of ranch website.
 
-### TKTKs
+### Rough Draft Checklist
 
-- Might need to restore and re-edit index.html, recreation--accommodations.html, and ???
-- Edit main_style.css
+- [x] index.html
+- [x] exotic-hunts.html
+- [ ] trophy-hunts.html
+- [ ] doe--spike-hunts.html
+- [x] recreation--accommodations.html
+- [ ] classic-8-hunts.html
