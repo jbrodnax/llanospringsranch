@@ -16,9 +16,9 @@
  #content abbr { border-bottom: 1px dotted #8f8f8f; }
  .container { margin: 0 auto; width: 1000px; }
  #page { margin: 0 auto; width: 1100px; }
- #shadow-bot { background: url(/web/20230709151422im_/http://llanospringsranch.com/files/theme/shadow-bot.png?1511923113) left bottom no-repeat; }
- #shadow-mid { background: url(/web/20230709151422im_/http://llanospringsranch.com/files/theme/shadow-mid.png?1511923113) repeat-y; padding: 0 50px; }
- #header { margin: 0 auto; height: 55px; width: 1048px; padding: 0 20px 10px 0 !important; background: transparent url(/web/20230709151422im_/http://llanospringsranch.com/files/theme/header-top.png?1511923113) top no-repeat; }
+ #shadow-bot { background: url(/img/shadow-bot.png) left bottom no-repeat; }
+ #shadow-mid { background: url(/img/shadow-mid.png) repeat-y; padding: 0 50px; }
+ #header { margin: 0 auto; height: 55px; width: 1048px; padding: 0 20px 10px 0 !important; background: transparent url(/img/header-top.png) top no-repeat; }
  .wsite-logo, .wsite-logo a { color: #fff; margin: 0; padding: 0; text-decoration: none; }
  .wsite-logo, .wsite-logo a:hover { color: #fff; }
  .wsite-logo { font-size: 49px; color: #fff; margin: 0 0 0 9px; display: block; font-weight: normal; padding: 25px 0; font-family: "Crete Round", Arial, Helvetica, sans-serif; text-shadow: 0 1px 3px rgba(0, 0, 0, 0.8); -webkit-text-stroke-width: 0.7px; }
@@ -29,7 +29,7 @@
  #header-right td { padding: 0; vertical-align: middle; text-align: right; }
  #header-right .phone-number { color: #414141; font-size: 12px; font-weight: normal; font-family: Arial, Helvetica, sans-serif; text-decoration: none; }
  #header-right .wsite-social { vertical-align: middle; margin: 0 0 0 10px; }
- .wsite-social-item { width: 23px; height: 23px; margin: 0 0 0 3px; background-image:url(/web/20230709151422im_/http://llanospringsranch.com/files/theme/social-orange.png?1511923113); }
+ .wsite-social-item { width: 23px; height: 23px; margin: 0 0 0 3px; background-image:url(/img/social-orange.png); }
  .wsite-social-facebook {background-position:0 0;}
  .wsite-social-facebook:hover {background-position:0 -23px;}
  .wsite-social-facebook:active {background-position:0 -46px;}
@@ -65,8 +65,8 @@
  .wsite-social-youtube:active {background-position:-230px -46px;}
  #header-right .search { }
  #header-right .wsite-search { margin: 0 0 0 12px; vertical-align: middle; }
- #header-right .wsite-search-input { width: 142px; height: 14px; border: none; padding: 9px 5px 9px 10px !important; color: #545454; font-family: Arial, Helvetica, sans-serif; font-size: 12px; background: url(/web/20230709151422im_/http://llanospringsranch.com/files/theme/input-bg.png?1511923113) no-repeat; }
- #header-right .wsite-search-button { position: relative; width: 23px; height: 32px; color: #010101; font-size: 12px; border: none; margin: 0; padding: 0; background: url(/web/20230709151422im_/http://llanospringsranch.com/files/theme/submit-bg-orange.png?1511923113) no-repeat; }
+ #header-right .wsite-search-input { width: 142px; height: 14px; border: none; padding: 9px 5px 9px 10px !important; color: #545454; font-family: Arial, Helvetica, sans-serif; font-size: 12px; background: url(/img/input-bg.png) no-repeat; }
+ #header-right .wsite-search-button { position: relative; width: 23px; height: 32px; color: #010101; font-size: 12px; border: none; margin: 0; padding: 0; background: url(/img/submit-bg-orange.png) no-repeat; }
  #topnav { overflow: hidden; margin: 0; height: 55px; padding: 9px 0 0 15px; display: inline-block; }
  #topnav ul { list-style: none; }
  #topnav ul li { list-style: none; float: left; padding: 0; padding: 0 17px 0 0; }
@@ -76,18 +76,18 @@
  #wsite-menus .wsite-menu li a:hover { color: #fff; background: #eb9516; }
  #main { background: url(/img/Content_Area_Bg.jpg); }
  #content { min-height: 400px; padding: 18px 27px; }
- #banner { background: url(/web/20230709151422im_/http://llanospringsranch.com/files/theme/banner-bot.png?1511923113) left bottom no-repeat; padding-bottom: 40px; position: relative; overflow: hidden; }
- #banner-top { background: url(/web/20230709151422im_/http://llanospringsranch.com/files/theme/banner-top.png?1511923113) no-repeat; padding-top: 35px; }
- #banner-mid { background: url(/web/20230709151422im_/http://llanospringsranch.com/files/theme/banner-mid.png?1511923113) top left repeat-y; padding: 0 29px 0 31px; }
+ #banner { background: url(/img/banner-bot.png) left bottom no-repeat; padding-bottom: 40px; position: relative; overflow: hidden; }
+ #banner-top { background: url(/img/banner-top.png) no-repeat; padding-top: 35px; }
+ #banner-mid { background: url(/img/banner-mid.png) top left repeat-y; padding: 0 29px 0 31px; }
  .tall-header-page .wsite-header { width: 938px; height: 258px; background: url(/img/banner-tall.jpg) no-repeat; border: 1px solid #ded6c1; box-shadow: inset 0 0 1px 1px rgba(222, 214, 193, 0.7); }
  .short-header-page .wsite-header { width: 938px; height: 168px; background: url(/img/banner-short.jpg) no-repeat; border: 1px solid #ded6c1; box-shadow: inset 0 0 1px 1px rgba(222, 214, 193, 0.7); }
- .short-header-page #banner { background: url(/web/20230709151422im_/http://llanospringsranch.com/files/theme/banner-bot-short.png?1511923113) left bottom no-repeat; }
- .short-header-page #banner-mid { background: url(/web/20230709151422im_/http://llanospringsranch.com/files/theme/banner-mid-short.png?1511923113) repeat-y; }
+ .short-header-page #banner { background: url(/img/banner-bot-short.png) left bottom no-repeat; }
+ .short-header-page #banner-mid { background: url(/img/banner-mid-short.png) repeat-y; }
  .no-header-page #banner { display: none; }
- .no-header-page #content { background: url(/web/20230709151422im_/http://llanospringsranch.com/files/theme/content-bg-short.png?1511923113) no-repeat; padding-top: 25px; }
- .landing-page #banner { background: url(/web/20230709151422im_/http://llanospringsranch.com/files/theme/banner-bot-landing.png?1511923113) left bottom no-repeat; }
- .landing-page #banner-top { background: url(/web/20230709151422im_/http://llanospringsranch.com/files/theme/banner-top-landing.png?1511923113) no-repeat; padding-top: 34px; }
- .landing-page #banner-mid { background: url(/web/20230709151422im_/http://llanospringsranch.com/files/theme/banner-mid-landing.png?1511923113) repeat-y; }
+ .no-header-page #content { background: url(/img/content-bg-short.png) no-repeat; padding-top: 25px; }
+ .landing-page #banner { background: url(/img/banner-bot-landing.png) left bottom no-repeat; }
+ .landing-page #banner-top { background: url(/img/banner-top-landing.png) no-repeat; padding-top: 34px; }
+ .landing-page #banner-mid { background: url(/img/banner-mid-landing.png) repeat-y; }
  #bannerleft { float: right; padding: 0; position: relative; }
  .landing-page .wsite-header { width: 563px; height: 328px; background: url(/img/banner-landing.jpg) no-repeat; border: 1px solid #ded6c1; box-shadow: inset 0 0 1px 1px rgba(222, 214, 193, 0.7); }
  .landing-banner-outer { display: table; #position: relative; overflow: hidden; }
@@ -99,7 +99,7 @@
  #bannerright p { color: #fff; font-size: 14px; padding: 20px 0px; line-height: 140%; margin: 0; }
  #bannerright .wsite-button { margin: 0; }
  .splash-page #header { width: 532px; }
- .splash-page #banner { width: 527px; height: 161px; padding: 6px 4px 4px 6px; background: url(/web/20230709151422im_/http://llanospringsranch.com/files/theme/banner-splash-bg.png?1511923113) no-repeat; }
+ .splash-page #banner { width: 527px; height: 161px; padding: 6px 4px 4px 6px; background: url(/img/banner-splash-bg.png) no-repeat; }
  .splash-page .wsite-header { width: 515px; height: 149px; background: url(/img/banner-splash.jpg) no-repeat; }
  .splash-page #content-container { width: 528px; }
  .splash-page #content { width: 528px; }
@@ -115,30 +115,30 @@
  .wsite-footer { margin-bottom: 15px; }
  .wsite-form-label { display: inline-block; color: #837253; font-family: Arial, Helvetica, sans-serif; font-size: 1em; padding: 12px 0 5px 0; }
  .form-radio-container { color: #837253; font-size: 1em; font-family: Arial, Helvetica, sans-serif; }
- .wsite-form-input, .wsite-search-element-input { font-family: Arial, Helvetica, sans-serif; font-size: 1em; color: #837253; background: #fff url(/web/20230709151422im_/http://llanospringsranch.com/files/theme/field.png?1511923113) repeat-x; border: 1px solid #b7af9a; padding: 6px 4px 6px !important; line-height: 1; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; }
- .form-select { color: #837253; background: #fff url(/web/20230709151422im_/http://llanospringsranch.com/files/theme/field.png?1511923113) repeat-x; border: 1px solid #b7af9a; font-size: 1em; font-family: Arial, Helvetica, sans-serif; padding: 3px 4px; width: 320px; height: 27px; line-height: 27px; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; }
+ .wsite-form-input, .wsite-search-element-input { font-family: Arial, Helvetica, sans-serif; font-size: 1em; color: #837253; background: #fff url(/img/field.png) repeat-x; border: 1px solid #b7af9a; padding: 6px 4px 6px !important; line-height: 1; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; }
+ .form-select { color: #837253; background: #fff url(/img/field.png) repeat-x; border: 1px solid #b7af9a; font-size: 1em; font-family: Arial, Helvetica, sans-serif; padding: 3px 4px; width: 320px; height: 27px; line-height: 27px; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; }
  .wsite-form-container { margin-top:0px !important; text-align:left; color:#aaa; }
  .wsite-footer .wsite-form-label { font-size: 1em; padding: 5px 0 2px 0; color:#ccc; }
  .wsite-footer .wsite-form-field { width:300px !important; }
  .wsite-footer .form-radio-container { font-size:1em; color:#bbb; }
  .wsite-footer .wsite-form-input { font-size: 1em; width: 100% !important; }
  .wsite-footer .form-select { width: 100%; }
- .wsite-button { color: #fff !important; font-family: Arial, Helvetica, sans-serif; height: 34px; display: inline-block; font-size: 12px; border: none; font-weight: bold; font-size: 13px; text-decoration: none; padding: 0 15px 0 0; background: url(/web/20230709151422im_/http://llanospringsranch.com/files/theme/button.png?1511923113) no-repeat 100% -105px; text-shadow:0 -1px 0 rgba(0,0,0,0.9); }
+ .wsite-button { color: #fff !important; font-family: Arial, Helvetica, sans-serif; height: 34px; display: inline-block; font-size: 12px; border: none; font-weight: bold; font-size: 13px; text-decoration: none; padding: 0 15px 0 0; background: url(/img/button.png) no-repeat 100% -105px; text-shadow:0 -1px 0 rgba(0,0,0,0.9); }
  .wsite-button:hover { background-position: 100% -140px; }
  .wsite-button:active { background-position: 100% -175px; }
- .wsite-button-inner { height: 34px; line-height: 34px; display: block; font-size: 14px; font-weight: bold; border: none; text-decoration: none; padding: 0 10px 0 25px; background: url(/web/20230709151422im_/http://llanospringsranch.com/files/theme/button.png?1511923113) no-repeat 0 0; }
+ .wsite-button-inner { height: 34px; line-height: 34px; display: block; font-size: 14px; font-weight: bold; border: none; text-decoration: none; padding: 0 10px 0 25px; background: url(/img/button.png) no-repeat 0 0; }
  .wsite-button:hover .wsite-button-inner { background-position: 0 -35px; }
  .wsite-button:active .wsite-button-inner { background-position: 0 -70px; }
- .wsite-button-large { height: 41px; background: url(/web/20230709151422im_/http://llanospringsranch.com/files/theme/button_large.png?1511923113) no-repeat 100% -126px; padding: 0 15px 0 0; }
+ .wsite-button-large { height: 41px; background: url(/img/button_large.png) no-repeat 100% -126px; padding: 0 15px 0 0; }
  .wsite-button-large:hover { background-position: 100% -168px; }
  .wsite-button-large:active { background-position: 100% -210px; }
- .wsite-button-large .wsite-button-inner { height: 41px; line-height: 41px; padding: 0 10px 0 25px; background: url(/web/20230709151422im_/http://llanospringsranch.com/files/theme/button_large.png?1511923113) no-repeat 0 0; }
+ .wsite-button-large .wsite-button-inner { height: 41px; line-height: 41px; padding: 0 10px 0 25px; background: url(/img/button_large.png) no-repeat 0 0; }
  .wsite-button-large:hover .wsite-button-inner { background-position: 0 -42px; }
  .wsite-button-large:active .wsite-button-inner { background-position: 0 -84px; }
- .wsite-button-large.wsite-button-highlight { background-image: url(/web/20230709151422im_/http://llanospringsranch.com/files/theme/button_large_highlight_orange.png?1511923113); }
- .wsite-button-large.wsite-button-highlight .wsite-button-inner { background-image: url(/web/20230709151422im_/http://llanospringsranch.com/files/theme/button_large_highlight_orange.png?1511923113); }
- .wsite-button-highlight { background-image: url(/web/20230709151422im_/http://llanospringsranch.com/files/theme/button_highlight_orange.png?1511923113); }
- .wsite-button-highlight .wsite-button-inner { background-image: url(/web/20230709151422im_/http://llanospringsranch.com/files/theme/button_highlight_orange.png?1511923113); }
+ .wsite-button-large.wsite-button-highlight { background-image: url(/img/button_large_highlight_orange.png); }
+ .wsite-button-large.wsite-button-highlight .wsite-button-inner { background-image: url(/img/button_large_highlight_orange.png); }
+ .wsite-button-highlight { background-image: url(/img/button_highlight_orange.png); }
+ .wsite-button-highlight .wsite-button-inner { background-image: url(/img/button_highlight_orange.png); }
 
 div.paragraph ul, div.paragraph ol { padding-left: 3em !important; margin: 5px 0 !important; }
 div.paragraph li { padding-left: 5px !important; margin: 3px 0 0 !important; }
